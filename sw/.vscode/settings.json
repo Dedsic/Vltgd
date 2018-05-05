@@ -1,9 +1,10 @@
 {
     "terminal.integrated.env.linux": {
-        "PATH": "/root/.platformio/penv/bin:/root/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/android_sdk/platform-tools/",
+        "PATH": "/root/.platformio/penv/bin:/root/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/android/",
         "PLATFORMIO_CALLER": "vscode"
     },
     "files.associations": {
+        "ostream": "cpp",
         "functional": "cpp",
         "type_traits": "cpp"
     }
